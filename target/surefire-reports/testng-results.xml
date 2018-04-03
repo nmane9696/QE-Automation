@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="11982" started-at="2018-04-02T06:01:46Z" finished-at="2018-04-02T06:01:58Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="11982" started-at="2018-04-02T06:01:46Z" finished-at="2018-04-02T06:01:58Z">
+      <class name="TestCases.Login">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestCases.Login@174d20a]" name="beforeSuite" is-config="true" duration-ms="18" started-at="2018-04-02T11:31:46Z" finished-at="2018-04-02T11:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setDriver(java.lang.reflect.Method)[pri:0, instance:TestCases.Login@174d20a]" name="setDriver" is-config="true" duration-ms="6942" started-at="2018-04-02T11:31:46Z" finished-at="2018-04-02T11:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.Login.userLoginMethod() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="userLoginMethod()[pri:0, instance:TestCases.Login@174d20a]" name="userLoginMethod" duration-ms="2347" started-at="2018-04-02T11:31:53Z" finished-at="2018-04-02T11:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginMethod -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:TestCases.Login@174d20a]" name="testClosure" is-config="true" duration-ms="2684" started-at="2018-04-02T11:31:55Z" finished-at="2018-04-02T11:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestCases.Login@174d20a]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-04-02T11:31:58Z" finished-at="2018-04-02T11:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestCases.Login -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>

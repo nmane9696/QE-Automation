@@ -1,0 +1,6 @@
+TestCases\Login.class
+Pages\LoginPage.class
+common\WebDriverFactory.class
+Pages\HomePage.class
+Pages\SearchPage.class
+TestCases\AdminPageTestCase.class
