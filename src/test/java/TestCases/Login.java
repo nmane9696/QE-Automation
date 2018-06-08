@@ -18,6 +18,8 @@ public class Login extends LoginPage {
 		obj.clickMethod();
 		
 		System.out.println("\n\t completed POM DUMMY Project");
+		
+		System.out.println("\n\t by vinay");
 	}
 	
 	
