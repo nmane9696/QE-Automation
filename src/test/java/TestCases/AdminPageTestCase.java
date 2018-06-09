@@ -10,7 +10,7 @@ public class AdminPageTestCase extends HomePage {
 	
 		obj.getAdmintab();
 		System.out.println("Hello world \n");
-		System.out.println("Hello world 2222222222222  \n");
+		System.out.println("Hello world 2222 \n");
 		
 	}
 	
