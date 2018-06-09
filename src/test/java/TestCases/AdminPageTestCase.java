@@ -9,7 +9,7 @@ public class AdminPageTestCase extends HomePage {
 	public void clickAdmintabMethod() {
 	
 		obj.getAdmintab();
-		
+		System.out.println("Hello world \n");
 	}
 	
 }
